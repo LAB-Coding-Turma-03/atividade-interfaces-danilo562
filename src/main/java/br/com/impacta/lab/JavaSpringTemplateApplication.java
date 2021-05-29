@@ -29,7 +29,7 @@ public class JavaSpringTemplateApplication {
 		 * 
 		 */
 		
-		Pessoa pf = new PessoaFisica("45875412575", "PF");
+		Pessoa pf = new PessoaJuridica("35.987.0001-34", "PJ");
 
 		
 		
